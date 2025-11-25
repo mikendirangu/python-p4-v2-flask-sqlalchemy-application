@@ -29,3 +29,6 @@ with app.app_context():
 
     # Commit the transaction
     db.session.commit()
+
+
+    # Print a message to the console
